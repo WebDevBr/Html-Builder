@@ -60,7 +60,7 @@ Outra forma de setar atributos HTML em uma tag pe usando array:
 			]
 		]);
 
-Vou preparar uma lista de issues para que possa continuar o desenvolvimento deste projeto e até melhorar esta documentação, você pode se guiar pelos testes disponíveis no diretório `tests`.
+Vou preparar uma lista de issues para que possa continuar o desenvolvimento deste projeto e até melhorar esta documentação (mostrar alguns exemplos com a classe `Form`, por exemplo), você pode se guiar pelos testes disponíveis no diretório `tests`.
 
 ## Como contribuir?
 
